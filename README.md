@@ -8,17 +8,12 @@ A breadboard powersupply with the following base features:
 * Headers to attach to breadboard
 * RP2040 Microcontroller (Other features like a better name TBR)
 
-WHY?
---
+# WHY?
 I have been wanting to learn how make modular synthesizers and improve my PCB skills and decided to start with the powersupply.
 
 # License
---
-Refer to the [License(LICENSE.md)] for information.
+Refer to the [License](LICENSE.md) for information.
 
 # Tools Used
---
 PCB - Kicad 8
 Software - (TBR)
-
-
